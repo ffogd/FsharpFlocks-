@@ -1,0 +1,76 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="A03456D9-D4EC-48FE-8061-3846B001DA49/f:Script.fsx" caret="202" fromTop="4" />
+      <File id="0AA763F2-5642-4640-A12D-DCE894F8781D/f:Program.fs" caret="6412" fromTop="65" />
+      <File id="0AA763F2-5642-4640-A12D-DCE894F8781D/f:BoidDrawing.fs" caret="2183" fromTop="25" />
+      <File id="0AA763F2-5642-4640-A12D-DCE894F8781D/f:BoidForm.fs" caret="129" fromTop="4" />
+      <File id="9EA624D7-5716-461F-A6AF-B9189B9346F5/f:BoidForm.fs" caret="160" fromTop="8" />
+      <File id="9EA624D7-5716-461F-A6AF-B9189B9346F5/f:Program.fs" caret="6280" fromTop="34" />
+      <File id="9EA624D7-5716-461F-A6AF-B9189B9346F5/f:BoidDrawing.fs" caret="2148" fromTop="42" />
+      <File id="C1FE4BDE-27CE-44A8-A5A4-C2B1B4ADB39A/f:Program.fs" caret="5787" fromTop="33" />
+      <File id="A03456D9-D4EC-48FE-8061-3846B001DA49/f:Module1.fs" caret="7740" fromTop="0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="A03456D9-D4EC-48FE-8061-3846B001DA49/f:Module1.fs" caret="14953" fromTop="27" />
+      <File id="A03456D9-D4EC-48FE-8061-3846B001DA49/f:Module1.fs" caret="14974" fromTop="27" />
+      <File id="A03456D9-D4EC-48FE-8061-3846B001DA49/f:Module1.fs" caret="14826" fromTop="45" />
+      <File id="A03456D9-D4EC-48FE-8061-3846B001DA49/f:Module1.fs" caret="14798" fromTop="40" />
+      <File id="0AA763F2-5642-4640-A12D-DCE894F8781D/f:BoidForm.fs" caret="1412" fromTop="35" />
+      <File id="0AA763F2-5642-4640-A12D-DCE894F8781D/f:BoidForm.fs" caret="160" fromTop="5" />
+      <File id="0AA763F2-5642-4640-A12D-DCE894F8781D/f:BoidDrawing.fs" caret="2181" fromTop="57" />
+      <File id="A03456D9-D4EC-48FE-8061-3846B001DA49/f:Module1.fs" caret="14693" fromTop="39" />
+      <File id="0AA763F2-5642-4640-A12D-DCE894F8781D/f:Program.fs" caret="2950" fromTop="13" />
+      <File id="0AA763F2-5642-4640-A12D-DCE894F8781D/f:BoidDrawing.fs" caret="1636" fromTop="46" />
+      <File id="0AA763F2-5642-4640-A12D-DCE894F8781D/f:BoidDrawing.fs" caret="198" fromTop="10" />
+      <File id="0AA763F2-5642-4640-A12D-DCE894F8781D/f:Program.fs" caret="6469" fromTop="14" />
+      <File id="0AA763F2-5642-4640-A12D-DCE894F8781D/f:Program.fs" caret="6119" fromTop="5" />
+      <File id="0AA763F2-5642-4640-A12D-DCE894F8781D/f:BoidDrawing.fs" caret="1851" fromTop="20" />
+      <File id="0AA763F2-5642-4640-A12D-DCE894F8781D/f:Program.fs" caret="5581" fromTop="27" />
+      <File id="0AA763F2-5642-4640-A12D-DCE894F8781D/f:Program.fs" caret="5121" fromTop="12" />
+      <File id="0AA763F2-5642-4640-A12D-DCE894F8781D/f:BoidForm.fs" caret="623" fromTop="19" />
+      <File id="9EA624D7-5716-461F-A6AF-B9189B9346F5/f:Program.fs" caret="3189" fromTop="15" />
+      <File id="9EA624D7-5716-461F-A6AF-B9189B9346F5/f:BoidDrawing.fs" caret="1575" fromTop="31" />
+      <File id="9EA624D7-5716-461F-A6AF-B9189B9346F5/f:BoidDrawing.fs" caret="2148" fromTop="42" />
+      <File id="9EA624D7-5716-461F-A6AF-B9189B9346F5/f:BoidForm.fs" caret="1376" fromTop="36" />
+      <File id="9EA624D7-5716-461F-A6AF-B9189B9346F5/f:BoidForm.fs" caret="160" fromTop="8" />
+      <File id="A03456D9-D4EC-48FE-8061-3846B001DA49/f:Module1.fs" caret="12065" fromTop="19" />
+      <File id="9EA624D7-5716-461F-A6AF-B9189B9346F5/f:Program.fs" caret="6280" fromTop="34" />
+      <File id="A03456D9-D4EC-48FE-8061-3846B001DA49/f:Module1.fs" caret="8945" fromTop="14" />
+      <File id="A03456D9-D4EC-48FE-8061-3846B001DA49/f:Module1.fs" caret="9172" fromTop="26" />
+      <File id="A03456D9-D4EC-48FE-8061-3846B001DA49/f:Module1.fs" caret="6614" fromTop="18" />
+      <File id="A03456D9-D4EC-48FE-8061-3846B001DA49/f:Module1.fs" caret="15600" fromTop="52" />
+      <File id="A03456D9-D4EC-48FE-8061-3846B001DA49/f:Module1.fs" caret="6934" fromTop="11" />
+      <File id="A03456D9-D4EC-48FE-8061-3846B001DA49/f:Module1.fs" caret="9721" fromTop="36" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Programme\NUnit 2.4.8\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="using" priority="0" />
+      <Item value="var" priority="0" />
+      <Item value="Flock" priority="0" />
+      <Item value="TestSql`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Flock.TestSql">
+      <Item value="sql`1" priority="0" />
+      <Item value="QueryContext`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
